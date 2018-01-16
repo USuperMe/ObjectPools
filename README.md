@@ -1,4 +1,1 @@
-ObjectPool
-==========
-
-Instead of creating and destroying new objects all the time, this script reduces garbage by pooling instances, allowing you to seemingly create hundreds of new objects while only actually using a recycled few.
+对象池的创建和使用，参考网络上一些文章和博客得出，代码有部分是拷贝的，当做学习足够，感谢贡献者。
